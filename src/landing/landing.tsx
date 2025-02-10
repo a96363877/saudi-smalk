@@ -2905,8 +2905,8 @@ function Landing(props: { handleNextPage: any }) {
           </div>
         </div>
         <div className="allcarts">
-          <div id="open_cart" className="CartButtonMob_wrapper">
-            <div className="CartButtonMob_goToCart__50kKk">
+          <div id="open_cart" className="CartButtonMob_wrapper" >
+            <div className="CartButtonMob_goToCart__50kKk" >
               <div id="total" className="CartButtonMob_sum__7e1nq">
                 <span
                   className="CartButtonMob_count__NyKX4"
@@ -2921,7 +2921,9 @@ function Landing(props: { handleNextPage: any }) {
                 </h5>
               </div>
               <div
-                onClick={() => props.handleNextPage()}
+                onClick={() =>{
+                  total<= 0.1?alert("cart empty"): props.handleNextPage()
+                }}
                 className="CartButtonMob_goToCheckout__WILRU"
                 style={{ cursor: 'pointer' }}
               >
