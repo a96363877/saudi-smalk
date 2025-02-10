@@ -271,7 +271,7 @@ function Landing(props: { handleNextPage: any }) {
                       <div className="FoodSubCategoryCard_imageWrapper  ">
                         <span className="minus">
                           <img
-                            src="/1.png"
+                            src="/top4.png"
                             decoding="async"
                             data-nimg="fill"
                             style={{
@@ -674,7 +674,7 @@ function Landing(props: { handleNextPage: any }) {
                           handleAddtoCart({
                             id: 0,
                             name: 'Shrimp Offer – “An Irresistible Delight!”                        ”                            ',
-                            price: '5.99',
+                            price: '72.77',
                             img: '/robi.jpg',
                           });
                         }}
@@ -897,7 +897,7 @@ function Landing(props: { handleNextPage: any }) {
                       <span className="minus">
                         <img
                           alt="3 كرتون دجاج 10 حبة * 1000 جرام"
-                          src="/ab.jpg"
+                          src="/pr-2.png"
                           decoding="async"
                           data-nimg="fill"
                           style={{
@@ -920,13 +920,13 @@ function Landing(props: { handleNextPage: any }) {
                         <noscript />
                       </span>
                     </div>
+                    
                     <div className="ProductCartVerticalDescription_info__0FmOx">
                       <h5 className="Typography_h5__MRrA0 ProductCartVerticalDescription_price__OtSAR7">
                         220.99 SAR
                       </h5>
                       <p className="Typography_p7  ProductCartVerticalDescription_name__M0ou9">
-                        10 kg shrimp carton - only 8 dinars!{' '}
-                      </p>
+                      10 kg carton of Turkish seabass, size 800-1000.                      </p>
                     </div>
                     <div className="a_pluss_1">
                       <a
@@ -1818,7 +1818,7 @@ function Landing(props: { handleNextPage: any }) {
                     </div>
                     <div className="ProductCartVerticalDescription_info__0FmOx">
                       <h5 className="Typography_h5__MRrA0 ProductCartVerticalDescription_price__OtSAR7">
-                        5.00 SAR
+                        99.2 SAR
                       </h5>
                       <p className="Typography_p7  ProductCartVerticalDescription_name__M0ou9">
                         Norwegian Salmon – “Fresh and special”
@@ -1830,7 +1830,7 @@ function Landing(props: { handleNextPage: any }) {
                           handleAddtoCart({
                             id: 10,
                             name: '10 kg fresh Kuwaiti jumbo shrimp',
-                            price: '5.0',
+                            price: '99.2',
                             img: '/kuwaiti-jumbo-robian-10kg.jpg',
                           })
                         }
@@ -1928,157 +1928,8 @@ function Landing(props: { handleNextPage: any }) {
                   data-analytic-event-content={800478}
                   className="ProductCardHorizontal_wrapper__byIUf pro_1"
                 >
-                  <div className="CardProductImage_imageWrapper__0rzrL ProductCardHorizontal_image__soYek">
-                    <span
-                      style={{
-                        boxSizing: 'border-box',
-                        display: 'block',
-                        overflow: 'hidden',
-                        width: 'initial',
-                        height: 'initial',
-                        background: 'none',
-                        opacity: 1,
-                        border: 0,
-                        margin: 0,
-                        padding: 0,
-                        position: 'absolute',
-                        top: 0,
-                        left: 0,
-                        bottom: 0,
-                        right: 0,
-                      }}
-                    >
-                      <img
-                        alt="Offer for  all Kuwait"
-                        src="/kuwaiti-jumbo-robian-10kg.jpg"
-                        decoding="async"
-                        data-nimg="fill"
-                        style={{
-                          position: 'absolute',
-                          top: 0,
-                          left: 0,
-                          bottom: 0,
-                          right: 0,
-                          boxSizing: 'border-box',
-                          padding: 0,
-                          border: 'none',
-                          margin: 'auto',
-                          display: 'block',
-                          width: 0,
-                          height: 0,
-                          minWidth: '100%',
-                          maxWidth: '100%',
-                          minHeight: '100%',
-                          maxHeight: '100%',
-                          objectFit: 'cover',
-                        }}
-                      />
-                    </span>
-                  </div>
-                  <div className="ProductCardHorizontal_info__FEa7G">
-                    <div>
-                      <h5 className="Typography_h5__MRrA0 ProductCardHorizontal_name__z0EMu">
-                        Offer for all Kuwait
-                      </h5>
-                      <p className="Typography_p8 ProductCardHorizontal_description__YSUl2">
-                        10 kg fresh Kuwaiti jumbo shrimp.
-                      </p>
-                    </div>
-                    <div
-                      className="ProductCardHorizontal_priceWrapper__3OYMk"
-                      data-id="kuwaiti-jumbo-robian-10kg"
-                    >
-                      <h5 className="Typography_h5__MRrA0">220.90 SAR</h5>
-                      <div className="a_pluss_1">
-                        <a
-                          type="button"
-                          className="Button_button Button_secondary ProductButton_addButton__y5b_u ProductButton_secondary__qDYDR ProductButton_normal__jOR_t cd-add-to-cart js-cd-add-to-cart "
-                          data-product-id="product_1"
-                          data-product-image="/kuwaiti-jumbo-robian-10kg.jpg"
-                          data-product-name="10 kg fresh Kuwaiti jumbo shrimp"
-                          data-product-price={220.99}
-                          data-class-add="btn_add_1"
-                          data-class-remove="btn_remove_1"
-                          data-class-pluss="btn_pluss_1"
-                          data-class-aremove="a_pluss_1"
-                          data-quantity-id="quantity_1"
-                          data-qquantity-id="qquantity_1"
-                          onClick={() => {
-                            handleAddtoCart({
-                              id: 0,
-                              name: '10 kg fresh Kuwaiti jumbo shrimp',
-                              price: '220.99',
-                              img: '/kuwaiti-jumbo-robian-10kg.jpg',
-                            });
-                          }}
-                        >
-                          <span className="Button_content btn_add_1">
-                            Add +
-                          </span>
-                          <div className="Loader_loader__4A5f1 Button_loader__I8AK4 btn_remove_1 d-none" />
-                        </a>
-                      </div>
-                      <div className="defualt_1 ProductButton_productButton___1dmt ProductButton_secondary__qDYDR ProductButton_normal__jOR_t ProductCardHorizontal_productButton__aQoPQ btn_pluss_1  d-none ">
-                        <a
-                          className="updatecart"
-                          data-type="minus"
-                          data-product-id="product_1"
-                          data-quantity-id="quantity_1"
-                          data-defualt="defualt_1"
-                          data-loadd="loadd_1"
-                        >
-                          <span
-                            data-test-id=""
-                            className="Icon_icon ProductButton_icon__XyfwX"
-                          >
-                            <span className="minus">
-                              <img
-                                className="asyncicon"
-                                alt="icon"
-                                decoding="async"
-                                data-nimg="fill"
-                                src="/minus.3902b821.svg"
-                              />
-                            </span>
-                          </span>
-                        </a>
-                        <h5
-                          id="quantity_1"
-                          className="Typography_h5__MRrA0 quantity_1"
-                        >
-                          0
-                        </h5>
-                        <a
-                          className="updatecart"
-                          data-type="plus"
-                          data-product-id="product_1"
-                          data-quantity-id="quantity_1"
-                          data-defualt="defualt_1"
-                          data-loadd="loadd_1"
-                        >
-                          <span
-                            data-test-id=""
-                            className="Icon_icon ProductButton_icon__XyfwX"
-                          >
-                            <span className="minus">
-                              <img
-                                alt="icon"
-                                decoding="async"
-                                data-nimg="fill"
-                                className="asyncicon"
-                                src="/plus.d7f13c1f.svg"
-                              />
-                            </span>
-                          </span>
-                        </a>
-                      </div>
-                      <div className="d-none loadd_1">
-                        <a className="Button_button Button_secondary ProductButton_addButton__y5b_u ProductButton_secondary__qDYDR ProductButton_normal__jOR_t">
-                          <div className="Loader_loader__4A5f1 Button_loader__I8AK4 btn_remove_1 " />
-                        </a>
-                      </div>
-                    </div>
-                  </div>
+           
+        
                 </div>
                 <div
                   data-analytic-label="productCard"
@@ -2108,7 +1959,7 @@ function Landing(props: { handleNextPage: any }) {
                     >
                       <img
                         alt="Alwataniah Offer"
-                        src="           https://sam-five-snowy.vercel.app/images/1.png"
+                       src="./pr-2.png"
                         decoding="async"
                         data-nimg="fill"
                         style={{
