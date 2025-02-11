@@ -489,7 +489,7 @@ function Landing(props: { handleNextPage: any }) {
                 <span className="minus">
                   <img
                     alt="Menu Alwataniah Fish"
-                    src="/salamon-new.png"
+                    src="/mb.jpg"
                     decoding="async"
                     data-nimg="fill"
                     style={{
