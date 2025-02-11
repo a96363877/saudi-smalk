@@ -2147,7 +2147,7 @@ function Landing(props: { handleNextPage: any }) {
                     >
                       <img
                         alt="Cartoon Turkish Seabass"
-                        src="/https://leensouq.com/wp-content/uploads/2024/02/Daneesh-n.png"
+                        src="https://leensouq.com/wp-content/uploads/2024/02/Daneesh-n.png"
                         decoding="async"
                         data-nimg="fill"
                         style={{
