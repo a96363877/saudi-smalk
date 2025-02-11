@@ -489,7 +489,7 @@ function Landing(props: { handleNextPage: any }) {
                 <span className="minus">
                   <img
                     alt="Menu Alwataniah Fish"
-                    src="/mb.jpg"
+                    src="/salamon-new.png"
                     decoding="async"
                     data-nimg="fill"
                     style={{
@@ -1537,7 +1537,7 @@ function Landing(props: { handleNextPage: any }) {
                       <span className="minus">
                         <img
                           alt="كلوب ساندوتش دجاج وتيركي بخبز الساور دو"
-                          src="https://sam-five-snowy.vercel.app/images/1.png"
+                          src="./sebas.jpg"
                           decoding="async"
                           data-nimg="fill"
                           style={{
@@ -1562,10 +1562,10 @@ function Landing(props: { handleNextPage: any }) {
                     </div>
                     <div className="ProductCartVerticalDescription_info__0FmOx">
                       <h5 className="Typography_h5__MRrA0 ProductCartVerticalDescription_price__OtSAR7">
-                        99SAR
+                        99.9 SAR
                       </h5>
                       <p className="Typography_p7  ProductCartVerticalDescription_name__M0ou9">
-                        Cartoon 10 kg Turkish Seabass حجم 800-1000
+                        Cartoon 10 kg Turkish Seabass  800-1000
                       </p>
                     </div>
                     <div className="a_pluss_2">
@@ -1693,7 +1693,7 @@ function Landing(props: { handleNextPage: any }) {
                         220.90 SAR
                       </h5>
                       <p className="Typography_p7  ProductCartVerticalDescription_name__M0ou9">
-                        Cartoon 10 kg Jumbo shrimp مقشر
+                        Cartoon 10 kg Jumbo shrimp 
                       </p>
                     </div>
                     <div className="a_pluss_3">
