@@ -923,7 +923,7 @@ function Landing(props: { handleNextPage: any }) {
                     
                     <div className="ProductCartVerticalDescription_info__0FmOx">
                       <h5 className="Typography_h5__MRrA0 ProductCartVerticalDescription_price__OtSAR7">
-                        220.99 SAR
+                        120.9 SAR
                       </h5>
                       <p className="Typography_p7  ProductCartVerticalDescription_name__M0ou9">
                       10 kg carton of Turkish seabass, size 800-1000.                      </p>
@@ -1434,7 +1434,7 @@ function Landing(props: { handleNextPage: any }) {
                     </div>
                     <div className="ProductCartVerticalDescription_info__0FmOx">
                       <h5 className="Typography_h5__MRrA0 ProductCartVerticalDescription_price__OtSAR7">
-                        220.9900 SAR
+                        120.9  SAR
                       </h5>
                       <p className="Typography_p7  ProductCartVerticalDescription_name__M0ou9">
                         10 kg fresh Kuwaiti jumbo shrimp
@@ -2027,7 +2027,7 @@ function Landing(props: { handleNextPage: any }) {
                       className="ProductCardHorizontal_priceWrapper__3OYMk"
                       data-id="jumbo-robian-10kg"
                     >
-                      <h5 className="Typography_h5__MRrA0">220.9900 SAR</h5>
+                      <h5 className="Typography_h5__MRrA0">120.9  SAR</h5>
                       <div className="a_pluss_3">
                         <a
                           type="button"
@@ -2185,7 +2185,7 @@ function Landing(props: { handleNextPage: any }) {
                       className="ProductCardHorizontal_priceWrapper__3OYMk"
                       data-id="turkish-sea-bass"
                     >
-                      <h5 className="Typography_h5__MRrA0">190.2 SAR</h5>
+                      <h5 className="Typography_h5__MRrA0">110.2  SAR</h5>
                       <div className="a_pluss_4">
                         <a
                           type="button"
@@ -2495,7 +2495,7 @@ function Landing(props: { handleNextPage: any }) {
                       className="ProductCardHorizontal_priceWrapper__3OYMk"
                       data-id="nigerian-salmon"
                     >
-                      <h5 className="Typography_h5__MRrA0">190.2 SAR</h5>
+                      <h5 className="Typography_h5__MRrA0">110.2  SAR</h5>
                       <div className="a_pluss_7">
                         <a
                           type="button"
@@ -2648,7 +2648,7 @@ function Landing(props: { handleNextPage: any }) {
                       className="ProductCardHorizontal_priceWrapper__3OYMk"
                       data-id="large-robian-1kg"
                     >
-                      <h5 className="Typography_h5__MRrA0">176.20 SAR</h5>
+                      <h5 className="Typography_h5__MRrA0">130.2  SAR</h5>
                       <div className="a_pluss_6">
                         <a
                           type="button"
