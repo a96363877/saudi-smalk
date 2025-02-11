@@ -761,7 +761,7 @@ function Landing(props: { handleNextPage: any }) {
                       <span className="minus">
                         <img
                           alt="3 كرتون دجاج 10 حبة * 1000 جرام"
-                          src="/sebas.jpg"
+                          src="https://leensouq.com/wp-content/uploads/2024/02/Daneesh-n.png"
                           decoding="async"
                           data-nimg="fill"
                           style={{
@@ -1281,7 +1281,7 @@ function Landing(props: { handleNextPage: any }) {
                       <span className="minus">
                         <img
                           alt="Fresh Hamour – Your Table Deserves the Best!"
-                          src="/hmo.jpg"
+                          src="/pr-2.png"
                           decoding="async"
                           data-nimg="fill"
                           style={{
@@ -1321,7 +1321,7 @@ function Landing(props: { handleNextPage: any }) {
                             id: 0,
                             name: 'Fresh Hamour – Your Table Deserves the Best!',
                             price: '122.3',
-                            img: '/hma.jpg',
+                            img: '/pr-2.png',
                           });
                         }}
                         data-product-id="product_1"
@@ -1409,7 +1409,7 @@ function Landing(props: { handleNextPage: any }) {
                       <span className="minus">
                         <img
                           alt="3 Cartoon دجاج 10 حبة * 1000 جرام"
-                          src="https://sam-five-snowy.vercel.app/images/2.png"
+                          src="https://leensouq.com/wp-content/uploads/2024/02/shrimb.jpeg"
                           decoding="async"
                           data-nimg="fill"
                           style={{
@@ -1449,7 +1449,7 @@ function Landing(props: { handleNextPage: any }) {
                             id: 0,
                             name: '10 kg fresh Kuwaiti jumbo shrimp',
                             price: '220.99',
-                            img: '/kuwaiti-jumbo-robian-10kg.jpg',
+                            img: '/https://leensouq.com/wp-content/uploads/2024/02/shrimb.jpeg',
                           });
                         }}
                         data-product-id="product_1"
@@ -1573,7 +1573,7 @@ function Landing(props: { handleNextPage: any }) {
                         type="button"
                         className="Button_button Button_secondary ProductButton_addButton__y5b_u ProductButton_secondary__qDYDR ProductButton_normal__jOR_t cd-add-to-cart js-cd-add-to-cart "
                         data-product-id="product_2"
-                        data-product-image="           https://sam-five-snowy.vercel.app/images/1.png"
+                        data-product-image="          https://leensouq.com/wp-content/uploads/2024/02/fish-fillet.jpeg"
                         data-product-name="Cartoon 10 kg Turkish Seabass حجم 800-1000"
                         data-product-price={20.0}
                         data-class-add="btn_add_2"
@@ -1587,7 +1587,7 @@ function Landing(props: { handleNextPage: any }) {
                             id: 0,
                             name: 'Cartoon 10 kg Turkish Seabass حجم 800-1000',
                             price: '20.0',
-                            img: ' https://sam-five-snowy.vercel.app/image.png',
+                            img: ' ./pr-0.png',
                           });
                         }}
                       >
@@ -1655,135 +1655,7 @@ function Landing(props: { handleNextPage: any }) {
                       </a>
                     </div>
                   </div>
-                </div>
-                <div className="pro_3">
-                  <div
-                    className="ProductCardVertical_wrapper__q1lzz"
-                    data-id="jumbo-robian-10kg"
-                  >
-                    <div className="CardProductImage_imageWrapper__0rzrL ProductCardVertical_image__B5TvN">
-                      <span className="minus">
-                        <img
-                          alt="ساوردو ومولتيجرين"
-                          src="https://sam-five-snowy.vercel.app/images/3.png"
-                          decoding="async"
-                          data-nimg="fill"
-                          style={{
-                            position: 'absolute',
-                            inset: 0,
-                            boxSizing: 'border-box',
-                            padding: 0,
-                            border: 'medium',
-                            margin: 'auto',
-                            display: 'block',
-                            width: 0,
-                            height: 0,
-                            minWidth: '100%',
-                            maxWidth: '100%',
-                            minHeight: '100%',
-                            maxHeight: '100%',
-                            objectFit: 'cover',
-                          }}
-                        />
-                        <noscript />
-                      </span>
-                    </div>
-                    <div className="ProductCartVerticalDescription_info__0FmOx">
-                      <h5 className="Typography_h5__MRrA0 ProductCartVerticalDescription_price__OtSAR7">
-                        220.90 SAR
-                      </h5>
-                      <p className="Typography_p7  ProductCartVerticalDescription_name__M0ou9">
-                        Cartoon 10 kg Jumbo shrimp 
-                      </p>
-                    </div>
-                    <div className="a_pluss_3">
-                      <button
-                        onClick={() =>
-                          handleAddtoCart({
-                            id: 0,
-                            name: '10 kg fresh Kuwaiti jumbo shrimp',
-                            price: '220.99',
-                            img: '/kuwaiti-jumbo-robian-10kg.jpg',
-                          })
-                        }
-                        type="button"
-                        className="Button_button Button_secondary ProductButton_addButton__y5b_u ProductButton_secondary__qDYDR ProductButton_normal__jOR_t cd-add-to-cart js-cd-add-to-cart "
-                        data-product-id="product_3"
-                        data-product-image="https://sam-five-snowy.vercel.app/images/1.png"
-                        data-product-name="Cartoon 10 kg Jumbo shrimp مقشر"
-                        data-product-price={220.99}
-                        data-class-add="btn_add_3"
-                        data-class-remove="btn_remove_3"
-                        data-class-pluss="btn_pluss_3"
-                        data-class-aremove="a_pluss_3"
-                        data-quantity-id="quantity_3"
-                        data-qquantity-id="qquantity_3"
-                      >
-                        <span className="Button_content btn_add_3">Add +</span>
-                        <div className="Loader_loader__4A5f1 Button_loader__I8AK4 btn_remove_3 d-none" />
-                      </button>
-                    </div>
-                    <div className="defualt_3 ProductButton_productButton___1dmt ProductButton_secondary__qDYDR ProductButton_normal__jOR_t ProductCardHorizontal_productButton__aQoPQ btn_pluss_3  d-none ">
-                      <a
-                        className="updatecart"
-                        data-type="minus"
-                        data-product-id="product_3"
-                        data-quantity-id="quantity_3"
-                        data-defualt="defualt_3"
-                        data-loadd="loadd_3"
-                      >
-                        <span
-                          data-test-id=""
-                          className="Icon_icon ProductButton_icon__XyfwX"
-                        >
-                          <span className="minus">
-                            <img
-                              className="asyncicon"
-                              alt="icon"
-                              decoding="async"
-                              data-nimg="fill"
-                              src="/minus.3902b821.svg"
-                            />
-                          </span>
-                        </span>
-                      </a>
-                      <h5
-                        id="qquantity_3"
-                        className="Typography_h5__MRrA0 quantity_3"
-                      >
-                        0
-                      </h5>
-                      <a
-                        className="updatecart"
-                        data-type="plus"
-                        data-product-id="product_3"
-                        data-quantity-id="quantity_3"
-                        data-defualt="defualt_3"
-                        data-loadd="loadd_3"
-                      >
-                        <span
-                          data-test-id=""
-                          className="Icon_icon ProductButton_icon__XyfwX"
-                        >
-                          <span className="minus">
-                            <img
-                              alt="icon"
-                              decoding="async"
-                              data-nimg="fill"
-                              className="asyncicon"
-                              src="/plus.d7f13c1f.svg"
-                            />
-                          </span>
-                        </span>
-                      </a>
-                    </div>
-                    <div className="d-none loadd_3">
-                      <a className="Button_button Button_secondary ProductButton_addButton__y5b_u ProductButton_secondary__qDYDR ProductButton_normal__jOR_t">
-                        <div className="Loader_loader__4A5f1 Button_loader__I8AK4 btn_remove_3 " />
-                      </a>
-                    </div>
-                  </div>
-                </div>
+             </div>
                 <div className="pro_4">
                   <div
                     className="ProductCardVertical_wrapper__q1lzz"
@@ -1793,7 +1665,7 @@ function Landing(props: { handleNextPage: any }) {
                       <span className="minus">
                         <img
                           alt="ساوردو ومولتيجرين"
-                          src="/unnamed.jpg"
+                          src="/salamon-new.png"
                           decoding="async"
                           data-nimg="fill"
                           style={{
@@ -1837,7 +1709,7 @@ function Landing(props: { handleNextPage: any }) {
                         type="button"
                         className="Button_button Button_secondary ProductButton_addButton__y5b_u ProductButton_secondary__qDYDR ProductButton_normal__jOR_t cd-add-to-cart js-cd-add-to-cart "
                         data-product-id="product_3"
-                        data-product-image="https://sam-five-snowy.vercel.app/images/1.png"
+                        data-product-image="https://leensouq.com/wp-content/uploads/2024/02/shrimb.jpeg"
                         data-product-name="Cartoon 10 kg Jumbo shrimp مقشر"
                         data-product-price={220.99}
                         data-class-add="btn_add_3"
@@ -2275,7 +2147,7 @@ function Landing(props: { handleNextPage: any }) {
                     >
                       <img
                         alt="Cartoon Turkish Seabass"
-                        src="/turkish-sea-bass.jpg"
+                        src="/https://leensouq.com/wp-content/uploads/2024/02/Daneesh-n.png"
                         decoding="async"
                         data-nimg="fill"
                         style={{
@@ -2432,7 +2304,8 @@ function Landing(props: { handleNextPage: any }) {
                     >
                       <img
                         alt="Iranian shrimp medium"
-                        src="/iranian-medium-robian-1kg.jpg"
+                        src="https://leensouq.com/wp-content/uploads/2024/02/shrimb.jpeg"
+                        
                         decoding="async"
                         data-nimg="fill"
                         style={{
@@ -2584,7 +2457,7 @@ function Landing(props: { handleNextPage: any }) {
                     >
                       <img
                         alt="Nigerian salmon"
-                        src="/nigerian-salmon.jpg"
+                        src="https://cdn.salla.sa/mKyPW/04465478-5f58-427b-a667-58ee639923bb-1000x1000-ovk88b348bqJTm5zyt37zi7vwJSqNYI2GhtdPCzD.png"
                         decoding="async"
                         data-nimg="fill"
                         style={{
@@ -2736,7 +2609,7 @@ function Landing(props: { handleNextPage: any }) {
                     >
                       <img
                         alt="Large shrimp"
-                        src="/large-robian-1kg.jpg"
+                        src="https://cdn.salla.sa/mKyPW/d0c6be14-af60-401e-b188-271c27810b22-1000x1000-h01XS74pwGHyLGzo5uFdSdQxtPb8bES8cT165jAi.png"
                         decoding="async"
                         data-nimg="fill"
                         style={{
